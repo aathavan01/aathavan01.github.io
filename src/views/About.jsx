@@ -49,7 +49,7 @@ const About = () => {
               }
             >
               Using a combination of cutting-edge technologies and reliable
-              open-source software I build user-focused, performant apps and
+              open-source software I build user-focused, performant
               websites for smartphones, tablets, and desktops.
             </p>
           </motion.div>
