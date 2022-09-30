@@ -1,18 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.176b99b4.css",
-    "main.js": "/static/js/main.9dcfbca5.js",
+    "main.js": "/static/js/main.fa538b33.js",
     "static/js/787.a1075f85.chunk.js": "/static/js/787.a1075f85.chunk.js",
+    "static/media/reon-frontend.png": "/static/media/reon-frontend.0ace224bfbb180d9eb7f.png",
+    "static/media/filterable_search_gallery.png": "/static/media/filterable_search_gallery.16608093194ae0a5fe11.png",
+    "static/media/todo.png": "/static/media/todo.4e32eacb923e5b78b7cf.png",
+    "static/media/personal-portfolio.png": "/static/media/personal-portfolio.c3cf8751b1caafddb003.png",
     "static/media/webdev.svg": "/static/media/webdev.4d72dbba32efee3890cef9bcacce7aa7.svg",
     "static/media/cloudBg.png": "/static/media/cloudBg.f28b5c6961fd82be839c.png",
     "static/media/cloudDark.png": "/static/media/cloudDark.51edaa54cabe7b964ae9.png",
     "index.html": "/index.html",
     "main.176b99b4.css.map": "/static/css/main.176b99b4.css.map",
-    "main.9dcfbca5.js.map": "/static/js/main.9dcfbca5.js.map",
+    "main.fa538b33.js.map": "/static/js/main.fa538b33.js.map",
     "787.a1075f85.chunk.js.map": "/static/js/787.a1075f85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.176b99b4.css",
-    "static/js/main.9dcfbca5.js"
+    "static/js/main.fa538b33.js"
   ]
 }
