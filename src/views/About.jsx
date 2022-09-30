@@ -30,11 +30,11 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
-              Aathavan is a self-learning developer who enjoys taking complex
-              problems and turning them into simple solutions. And he also likes
-              the logical structure of coding and always strives to write
-              elegant and efficient code. Aathavan plans to start his career as
-              a front-end and then become a full-stack developer.
+              I am a self-learning student developer who enjoys coding myself. I
+              like the logical structure of coding and always strive to write
+              elegant and efficient code. I am interested to start my career as
+              a frontend and UIUX Designing then becoming a full-stack web
+              developer. I also inserted in Business side.
             </p>
           </motion.div>
           <motion.div>
@@ -49,8 +49,8 @@ const About = () => {
               }
             >
               Using a combination of cutting-edge technologies and reliable
-              open-source software I build user-focused, performant
-              websites for smartphones, tablets, and desktops.
+              open-source software I build user-focused, performant websites for
+              smartphones, tablets, and desktops.
             </p>
           </motion.div>
           <motion.div className="flex flex-wrap mt-8 flex flex-wrap justify-between ">
