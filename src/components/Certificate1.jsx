@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
-import pic4 from "../assets/reon-frontend.png";
+import img1 from "../assets/freecodecamp1.png";
 
-const Card4 = () => {
+const Certificate1 = () => {
   return (
     <motion.div
       initial={"hidden"}
@@ -13,29 +13,25 @@ const Card4 = () => {
       }}
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
-      <a
-        href="https://reon-aathavan.netlify.app" target="blank"
-      
-      >
+      <a href="https://www.freecodecamp.org/certification/Aathavan_Kovinthamoorthy/responsive-web-design" target="blank">
         <img
           class="rounded-t-lg w-full"
-          src={pic4}
-          alt="Developer Portfolio"
+          src={img1}
+          alt="freecodecamp certificate"
+          style={{"height":"460px"}}
         />
       </a>
       <div class="p-5">
         <a href="helo">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-          Reon-Frontend
+          Responsive Web Design
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-        First ui made for reon.<br/>
-        Technologies: Html5, CSS, Bootstrap, Ant Design 
-
+        freecodecamp
         </p>
         <a
-          href="https://reon-aathavan.netlify.app" target="blank"
+          href="https://www.freecodecamp.org/certification/Aathavan_Kovinthamoorthy/responsive-web-design" target="blank"
           class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-500 rounded-lg hover:bg-blue-200 focus:ring-4 focus:outline-none focus:ring-blue-300"
         >
           See more
@@ -57,4 +53,4 @@ const Card4 = () => {
   );
 };
 
-export default Card4;
+export default Certificate1;

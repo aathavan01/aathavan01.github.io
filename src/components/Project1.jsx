@@ -27,7 +27,8 @@ const Card1 = () => {
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-        A web app for maintaining our day-to-day tasks
+        A web app for maintaining our day-to-day tasks<br/>
+        Technologies: HTML5, CSS, JavaScript, Vercel
         </p>
         <a
           href="https://aathavan01.github.io/Todo-app/" target="blank"

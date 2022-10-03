@@ -30,7 +30,9 @@ const Card3 = () => {
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-        Fully responsive minimal & modern developer portfolio with theme switching and language switching features.
+        Fully responsive minimal & modern developer portfolio with theme switching and language switching features.<br/>
+        Technologies: React JS, TypeScript, Tailwind CSS, i18next, React-typed
+
         </p>
         <a
           href="https://aathavan01.github.io/personal-page/" target="blank"

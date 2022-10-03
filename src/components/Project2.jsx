@@ -30,7 +30,8 @@ const Card2 = () => {
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Fully responsive minimal image searchable web page.
+          Fully responsive minimal image searchable web page.<br/>
+          Technologies: HTML5 , CSS, JavaScript 
         </p>
         <a
           href="https://aathavan01.github.io/filterable_search_gallery/" target="blank"
