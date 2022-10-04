@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.176b99b4.css",
-    "main.js": "/static/js/main.b948de28.js",
+    "main.js": "/static/js/main.a2842c88.js",
     "static/js/787.a1075f85.chunk.js": "/static/js/787.a1075f85.chunk.js",
     "static/media/reon-frontend.png": "/static/media/reon-frontend.0ace224bfbb180d9eb7f.png",
     "static/media/filterable_search_gallery.png": "/static/media/filterable_search_gallery.16608093194ae0a5fe11.png",
     "static/media/todo.png": "/static/media/todo.4e32eacb923e5b78b7cf.png",
     "static/media/personal-portfolio.png": "/static/media/personal-portfolio.c3cf8751b1caafddb003.png",
+    "static/media/Reon.png": "/static/media/Reon.3529c966607a82006357.png",
     "static/media/webdev.svg": "/static/media/webdev.4d72dbba32efee3890cef9bcacce7aa7.svg",
     "static/media/freecodecamp2.png": "/static/media/freecodecamp2.7e7fd78c22240c546a88.png",
     "static/media/freecodecamp1.png": "/static/media/freecodecamp1.168d965604ef4aacef3c.png",
@@ -16,11 +17,11 @@
     "static/media/M001_proof_of_completion.jpeg": "/static/media/M001_proof_of_completion.a7a695ae56d11d350bc1.jpeg",
     "index.html": "/index.html",
     "main.176b99b4.css.map": "/static/css/main.176b99b4.css.map",
-    "main.b948de28.js.map": "/static/js/main.b948de28.js.map",
+    "main.a2842c88.js.map": "/static/js/main.a2842c88.js.map",
     "787.a1075f85.chunk.js.map": "/static/js/787.a1075f85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.176b99b4.css",
-    "static/js/main.b948de28.js"
+    "static/js/main.a2842c88.js"
   ]
 }
