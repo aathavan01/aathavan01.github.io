@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import pic4 from "../assets/reon-frontend.png";
+import pic4 from "../assets/Reon.png";
 
 const Card5 = () => {
   return (
